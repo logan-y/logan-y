@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Logan Young</h1>
-<h3 align="center">A new developer currently enrolled in the Bright Paths program!</h3>
+<h3 align="center">A new developer currently working as an Associate Technical Consultant!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logan-y" alt="logan-y" /></a> </p>
 
 - 🔭 I’m currently working on [Dev-Lab Tool](https://github.com/logan-y/foundations-project)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/logan-y](https://github.com/logan-y)
 
